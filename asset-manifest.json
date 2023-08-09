@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fddb7167.css",
-    "main.js": "/static/js/main.24ea2422.js",
-    "static/js/872.277e7af4.chunk.js": "/static/js/872.277e7af4.chunk.js",
-    "static/js/227.23600860.chunk.js": "/static/js/227.23600860.chunk.js",
-    "static/js/526.fdf471b7.chunk.js": "/static/js/526.fdf471b7.chunk.js",
-    "static/js/232.5f09e318.chunk.js": "/static/js/232.5f09e318.chunk.js",
-    "static/js/237.cff872fa.chunk.js": "/static/js/237.cff872fa.chunk.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/tailwindlogo.png": "/static/media/tailwindlogo.9c2e5bcf4f97d73e438e.png",
-    "index.html": "/index.html",
-    "main.fddb7167.css.map": "/static/css/main.fddb7167.css.map",
-    "main.24ea2422.js.map": "/static/js/main.24ea2422.js.map",
-    "872.277e7af4.chunk.js.map": "/static/js/872.277e7af4.chunk.js.map",
-    "227.23600860.chunk.js.map": "/static/js/227.23600860.chunk.js.map",
-    "526.fdf471b7.chunk.js.map": "/static/js/526.fdf471b7.chunk.js.map",
-    "232.5f09e318.chunk.js.map": "/static/js/232.5f09e318.chunk.js.map",
-    "237.cff872fa.chunk.js.map": "/static/js/237.cff872fa.chunk.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/hemanthsrivathsav.github.io/static/css/main.dc416784.css",
+    "main.js": "/hemanthsrivathsav.github.io/static/js/main.ec1a99ce.js",
+    "static/js/872.3bda2143.chunk.js": "/hemanthsrivathsav.github.io/static/js/872.3bda2143.chunk.js",
+    "static/js/227.259985a1.chunk.js": "/hemanthsrivathsav.github.io/static/js/227.259985a1.chunk.js",
+    "static/js/526.43da81ee.chunk.js": "/hemanthsrivathsav.github.io/static/js/526.43da81ee.chunk.js",
+    "static/js/232.a0a5b811.chunk.js": "/hemanthsrivathsav.github.io/static/js/232.a0a5b811.chunk.js",
+    "static/js/237.c02c9337.chunk.js": "/hemanthsrivathsav.github.io/static/js/237.c02c9337.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/hemanthsrivathsav.github.io/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/hemanthsrivathsav.github.io/index.html",
+    "main.dc416784.css.map": "/hemanthsrivathsav.github.io/static/css/main.dc416784.css.map",
+    "main.ec1a99ce.js.map": "/hemanthsrivathsav.github.io/static/js/main.ec1a99ce.js.map",
+    "872.3bda2143.chunk.js.map": "/hemanthsrivathsav.github.io/static/js/872.3bda2143.chunk.js.map",
+    "227.259985a1.chunk.js.map": "/hemanthsrivathsav.github.io/static/js/227.259985a1.chunk.js.map",
+    "526.43da81ee.chunk.js.map": "/hemanthsrivathsav.github.io/static/js/526.43da81ee.chunk.js.map",
+    "232.a0a5b811.chunk.js.map": "/hemanthsrivathsav.github.io/static/js/232.a0a5b811.chunk.js.map",
+    "237.c02c9337.chunk.js.map": "/hemanthsrivathsav.github.io/static/js/237.c02c9337.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/hemanthsrivathsav.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fddb7167.css",
-    "static/js/main.24ea2422.js"
+    "static/css/main.dc416784.css",
+    "static/js/main.ec1a99ce.js"
   ]
 }
